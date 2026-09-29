@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/riven-seas-hero.jpg" alt="Riven Seas" width="100%">
+  <img src="assets/riven-seas-hero.webp" alt="Riven Seas" width="100%">
 </p>
 
 # Riven Seas — Public Roadmap
@@ -23,7 +23,7 @@ You play a pirate captain whose decisions affect the crew, resources, reputation
 <table>
 <tr>
 <td width="35%" align="center">
-  <img src="assets/riven-seas-mark.jpg" alt="Riven Seas emblem" width="210"><br>
+  <img src="assets/riven-seas-mark.webp" alt="Riven Seas emblem" width="210"><br>
   <sub>Identity mark</sub>
 </td>
 <td width="65%">
@@ -36,11 +36,11 @@ You play a pirate captain whose decisions affect the crew, resources, reputation
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="assets/home-screen.jpg" alt="Riven Seas home screen concept" width="300"><br>
+  <img src="assets/home-screen.webp" alt="Riven Seas home screen concept" width="300"><br>
   <sub><strong>Home / voyage concept</strong></sub>
 </td>
 <td width="50%" align="center">
-  <img src="assets/decision-card.jpg" alt="Riven Seas decision card concept" width="300"><br>
+  <img src="assets/decision-card.webp" alt="Riven Seas decision card concept" width="300"><br>
   <sub><strong>Decision-card concept</strong></sub>
 </td>
 </tr>
