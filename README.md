@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/riven-seas-hero.webp" alt="Riven Seas — Every choice leaves a wake" width="100%">
+  <img src="assets/riven-seas-hero.jpg" alt="Riven Seas — Every choice leaves a wake" width="100%">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 The experience is designed around illustrated situations and two-way choices rather than real-time combat. The world starts grounded in rivalry, survival and maritime power, then gradually opens toward stranger legends and anomalies.
 
 <p align="center">
-  <img src="assets/riven-seas-mark.webp" alt="Riven Seas emblem" width="220">
+  <img src="assets/riven-seas-mark.jpg" alt="Riven Seas emblem" width="220">
 </p>
 
 ## A glimpse of the direction
@@ -26,11 +26,11 @@ The experience is designed around illustrated situations and two-way choices rat
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="assets/home-screen.webp" alt="Riven Seas home screen concept" width="300"><br>
+  <img src="assets/home-screen.jpg" alt="Riven Seas home screen concept" width="300"><br>
   <sub><strong>Voyage hub</strong> — premium nautical presentation</sub>
 </td>
 <td width="50%" align="center">
-  <img src="assets/decision-card.webp" alt="Riven Seas decision card concept" width="300"><br>
+  <img src="assets/decision-card.jpg" alt="Riven Seas decision card concept" width="300"><br>
   <sub><strong>Decision experience</strong> — readable state, art and consequence</sub>
 </td>
 </tr>
